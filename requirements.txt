@@ -1,0 +1,10 @@
+# --- Basic data and network handling ---
+requests          # Fetching data from Reddit and sending it to Discord
+feedparser        # Parsing (reading) RSS feeds
+
+# --- Intelligence (Google Gemini) ---
+google-genai      # New library for handling Gemini AI (v6.0+)
+
+# --- Optional (if you use specific features) ---
+python-dotenv   # Useful if you want to keep your keys in a separate .env file
+

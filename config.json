@@ -1,0 +1,31 @@
+{
+    "subreddits": [
+        "gambling",
+        "onlinegambling",
+        "stake",
+        "roobet",
+        "slots",
+        "bovada"
+    ],
+    "keywords": [
+        "glitch",
+        "bug",
+        "error",
+        "exploit",
+        "stuck",
+        "wrong payout",
+        "infinite",
+        "freeze",
+        "froze",
+        "money hack",
+        "server error",
+        "double pay",
+        "crashed",
+        "maintenance",
+        "scam",
+        "cheat",
+        "hack"
+    ],
+    "sleep_time": 3600,
+    "ai_delay": 60
+}
