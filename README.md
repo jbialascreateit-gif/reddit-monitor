@@ -31,8 +31,8 @@ This project is an automated Python bot that monitors specific subreddits for ne
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-address>
-    cd <project-folder-name>
+    git clone <https://github.com/jbialascreateit-gif/reddit-monitor.git>
+    cd <reddit-monitor>
     ```
 
 2.  **Install dependencies:**
